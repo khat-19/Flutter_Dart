@@ -71,7 +71,9 @@ bool isNight = false;
 print(isNight);
 
 // here Dart understand that this is s Boolean
-List names = ['Abu', 'Mohamed', 'John', 'Sorie', 'Francess'];
+List names = ['Abu', 'Mohamed', 'John', 'Sorie', 'Francess', 'Rugie'];
+names.add('Mawuliah');
+names.remove('Francess');
 print(names);
 
 }
