@@ -7,3 +7,7 @@ Day one is the introduction on flutter_dart, Features, Advantage and Disadvantag
 *********************   DAY TWO     **********************************
 
 Day two is the declaration of variables and types of Data Types
+
+*********************   DAY THREE     **********************************
+
+Day three is the printing of our first code "Hello world"
