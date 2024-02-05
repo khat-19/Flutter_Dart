@@ -13,5 +13,9 @@ Day two is the declaration of variables and types of Data Types
 Day three is the printing of our first code "Hello world"
 
 *********************   DAY FOUR     **********************************
-Day four i disucss about arithmetic operators and examples of code
-i discuss about the Arithmetics properties and the Equality and relational operators
+Day four i disucss about arithmetic operators and examples of code i 
+discuss about the Arithmetics operators, Type test operators and the Equality and relational operators
+
+*********************   DAY FIVE     **********************************
+Day five is the continuaiton of the arithmetics operators  like
+Assignment operators, Logical operators, Conditional expressions, Cascade notation (..)
