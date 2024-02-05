@@ -11,3 +11,7 @@ Day two is the declaration of variables and types of Data Types
 *********************   DAY THREE     **********************************
 
 Day three is the printing of our first code "Hello world"
+
+*********************   DAY FOUR     **********************************
+Day four i disucss about arithmetic operators and examples of code
+i discuss about the Arithmetics properties and the Equality and relational operators
