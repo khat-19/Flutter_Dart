@@ -19,3 +19,6 @@ discuss about the Arithmetics operators, Type test operators and the Equality an
 *********************   DAY FIVE     **********************************
 Day five is the continuaiton of the arithmetics operators  like
 Assignment operators, Logical operators, Conditional expressions, Cascade notation (..)
+
+*********************   DAY SIX     **********************************
+Day six is the use of control flow statement
