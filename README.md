@@ -22,3 +22,6 @@ Assignment operators, Logical operators, Conditional expressions, Cascade notati
 
 *********************   DAY SIX     **********************************
 Day six is the use of control flow statement
+
+*********************   DAY SEVEN     **********************************
+Day seven is the contunation of the control flow statement where we discuss about FOR LOOPS
