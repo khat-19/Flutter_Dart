@@ -25,3 +25,6 @@ Day six is the use of control flow statement
 
 *********************   DAY SEVEN     **********************************
 Day seven is the contunation of the control flow statement where we discuss about FOR LOOPS
+
+*********************   DAY EIGHT     **********************************
+Day eight, still on the control flow statement using while and do while loop
